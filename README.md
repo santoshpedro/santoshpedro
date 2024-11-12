@@ -15,7 +15,4 @@ Atualmente, sou desenvolvedor back-end na Climacta Soluções Sustentáveis, ond
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-pedrohenriquesoaress2016@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:pedrohenriquesoaress2016@gmail.com) <br><br>
-
-
-![santoshpedro GitHub stats](https://github-readme-stats.vercel.app/api?username=santoshpedro&show_icons=true&theme=radical)
 <br><br>
