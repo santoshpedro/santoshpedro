@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, meu nome é Pedro!</h1>
+<h1 align="center">👋 Olá, meu nome é Pedro Henrique!</h1>
 
 <p align="center">
-  💻 Estudante de Ciência da Computação | 🌍 Apaixonado por Tecnologia
+  💻 Ciência da Computação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
 Atualmente, sou desenvolvedor back-end na Climacta Soluções Sustentáveis, onde sou responsável por desenvolver APIs e integrar serviços. Também cuido da manutenção e da saúde do servidor da aplicação principal da empresa. Tenho grande interesse em temas de inteligência artificial e sou especialmente fã do Django, o framework com o qual trabalho atualmente. Estou cursando o quarto período de Ciência da Computação no Instituto Federal do Triângulo Mineiro, no campus de Ituiutaba.
