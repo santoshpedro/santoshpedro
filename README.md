@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github,django,postgresql,linux,anaconda)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
