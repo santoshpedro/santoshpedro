@@ -4,7 +4,7 @@
   💻 Estudante de Ciência da Computação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
-Atualmente sou desenvolvedor back-end na Climacta Soluções Sustentáveis, lá eu sou responsável por desenvolver API's e integrar serviços, também sou responsável pela manutenção do servidor da aplicação principal da empresa. Gosto de assuntos que envolvam inteligência artifical e tenho uma queda por Django que é a linguagem na qual trabalho atualmente. Faço ciência da computação no Instituto Federal do Triângulo Mineiro no Campus de Ituiutaba e estou no quarto período.
+Atualmente, sou desenvolvedor back-end na Climacta Soluções Sustentáveis, onde sou responsável por desenvolver APIs e integrar serviços. Também cuido da manutenção e da saúde do servidor da aplicação principal da empresa. Tenho grande interesse em temas de inteligência artificial e sou especialmente fã do Django, o framework com o qual trabalho atualmente. Estou cursando o quarto período de Ciência da Computação no Instituto Federal do Triângulo Mineiro, no campus de Ituiutaba.
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)<br><br>
